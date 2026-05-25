@@ -143,7 +143,7 @@ h1,h2,h3,h4 {
 }
 .hero-bg {
   position: absolute; inset: 0;
-  background: url('L\'équipe.png') center/cover no-repeat;
+  background: url('image/equipe.png') center/cover no-repeat;
 }
 .hero-overlay {
   position: absolute; inset: 0;
